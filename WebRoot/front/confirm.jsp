@@ -9,6 +9,10 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 <head>
 	<base href="<%=basePath%>">
     <meta charset="UTF-8">
+    
+    
+    
+    
     <title>U闲交易平台</title>
     <link rel="stylesheet" type="text/css" href="front/css/confirm.css">
     <link rel="icon" href="front/images/icon.ico">
